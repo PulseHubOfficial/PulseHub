@@ -1,4 +1,4 @@
-Copyright (c) 2026 PulseHub. All Rights Reserved.
+## Copyright (c) 2026 PulseHub. All Rights Reserved.
 
 This software and its associated files (including the compiled APK/AAB packages) are the sole intellectual property of the author. 
 
