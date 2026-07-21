@@ -5,3 +5,6 @@ you may distribute this product completely free of charge, but only in its origi
 2. Commercial Use
 
 you may not use this product for profit or commercial use under any circumstances. This applies to all copies, modified or unmodified.
+3. Allowed Modifiers
+
+Modifiers such as loading screen changes are allowed but you can redistribute the modified version as stated in lines 2 to 5.
